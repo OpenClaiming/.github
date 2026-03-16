@@ -1,7 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/1182806847/6f5f3db0-f5c5-40ab-ac26-8c4feb1ef6ba">
 
-<img src="https://repository-images.githubusercontent.com/1182806847/6f5f3db0-f5c5-40ab-ac26-8c4feb1ef6ba">
-
 # 📜 OpenClaiming Protocol Documentation
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
