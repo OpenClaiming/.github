@@ -32,7 +32,7 @@ Example:
 
 The signature proves the **issuer made the statement**.
 
-Learn more at **https://openclaiming.org**.
+Learn more at **https://openclaiming.org** and **https://github.com/OpenClaiming/Documentation**.
 
 ---
 
@@ -117,13 +117,13 @@ verify(claim, publicKey)
 
 | Language | Repository |
 |---------|-----------|
-| JavaScript | https://github.com/OpenClaiming/javascript |
-| Python | https://github.com/OpenClaiming/python |
-| Go | https://github.com/OpenClaiming/go |
-| Rust | https://github.com/OpenClaiming/rust |
-| PHP | https://github.com/OpenClaiming/php |
-| Java | https://github.com/OpenClaiming/java |
-| Swift | https://github.com/OpenClaiming/swift |
+| JavaScript | https://github.com/OpenClaiming/Javascript |
+| Python | https://github.com/OpenClaiming/Python |
+| Go | https://github.com/OpenClaiming/Go |
+| Rust | https://github.com/OpenClaiming/Rust |
+| PHP | https://github.com/OpenClaiming/PHP |
+| Java | https://github.com/OpenClaiming/Java |
+| Swift | https://github.com/OpenClaiming/Swift |
 
 ---
 
