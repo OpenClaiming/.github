@@ -85,7 +85,7 @@ a single claim:
 
 OpenClaiming supports **standardized extensions** for common use cases:
 
-### 💸 Payment Extension (EVM)
+### 💸 Payments Extension (EVM)
 
 Authorizes a token transfer — signed as EIP-712, enforced on-chain via
 `ecrecover` + `transferFrom`. The contract executes the transfer forwarded
@@ -106,9 +106,9 @@ as the payer, with no proxy pre-approval required.
 }
 ```
 
-### ⚡ Authorization Extension
+### ⚡ Actions Extension
 
-Grants typed, constrained authority from one principal to a subject:
+The actions extension defines standardized execution claims. These claims represent requests to perform operations, which may require multisignature approval, role-based authorization, time delays, and contract-specific validation.
 
 ```json
 {
